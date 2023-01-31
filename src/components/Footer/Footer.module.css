@@ -1,0 +1,24 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+
+}
+
+.logo {
+    width: 134px;
+    height: 24px;
+    background-image: url(../Header/assets/IMAGE\ \(2\).svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.wrapper nav {
+    display: flex;
+    
+}
+
+.wrapper nav p{
+    margin-right: 40px;
+}

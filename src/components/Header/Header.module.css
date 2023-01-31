@@ -1,0 +1,46 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+
+}
+
+.logo {
+    width: 134px;
+    height: 24px;
+    background-image: url(./assets/IMAGE\ \(2\).svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.wrapper nav {
+    display: flex;
+
+}
+
+.wrapper nav p:not(:last-child) {
+    margin-right: 40px;
+}
+
+.login-btns {
+    display: flex;
+    align-items: center;
+}
+
+.merchant-login {
+    font: 400 16px 'Roboto';
+    color: #000000;
+}
+
+.customer-login {
+    font: 400 16px 'Roboto';
+    color: #FFFFFF;
+    background: #121212;
+    border-radius: 5px;
+    padding: 15px 10px;
+}
+
+.login-btns div:not(:last-child) {
+    margin-right: 40px;
+}

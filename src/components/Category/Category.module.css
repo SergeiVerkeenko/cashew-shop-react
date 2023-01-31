@@ -1,0 +1,42 @@
+h1 {
+    margin-top: 142px;
+    font: 400 79px 'Roboto';
+    color: #1E1E1E;
+}
+
+.komp-img {
+    width: 576px;
+    height: 420px;
+    background-image: url(./assets/IMAGE\ \(4\).png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.centr {
+    display: flex;
+    margin-top: 40px;
+}
+
+.sneakers-img {
+    width: 395px;
+    height: 207px;
+    background-image: url(./assets/IMAGE\ \(2\).png);
+}
+
+.perfume-img {
+    width: 395px;
+    height: 207px;
+    background-image: url(./assets/IMAGE\ \(3\).png);
+}
+
+.flower-img {
+    width: 181px;
+    height: 420px;
+    background-image: url(./assets/IMAGE\ \(1\).png);
+}
+
+.table-img{
+    width: 1200px;
+    height: 650px; 
+    background-image: url(./assets/Group\ 2.png);
+}

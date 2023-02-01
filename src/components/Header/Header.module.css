@@ -12,10 +12,12 @@
     background-image: url(./assets/IMAGE\ \(2\).svg);
     background-repeat: no-repeat;
     background-size: contain;
+    cursor: pointer;
 }
 
 .wrapper nav {
     display: flex;
+    cursor: pointer;
 
 }
 
@@ -26,6 +28,7 @@
 .login-btns {
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 
 .merchant-login {
